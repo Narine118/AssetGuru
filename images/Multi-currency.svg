@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>D701572F-D6E4-4801-9A92-B5324C1A5BE3</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Design-–-Default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="How-it-Works-Copy" transform="translate(-1071.000000, -1948.000000)" stroke="#00C7D9">
+            <g id="TOP-FEATURES---SECT" transform="translate(0.000000, 1024.000000)">
+                <g id="Icons" transform="translate(740.000000, 895.000000)">
+                    <g id="Group-03" transform="translate(332.000000, 30.000000)">
+                        <g id="ICN/Multi-currency">
+                            <g id="currency-euro-dollar-exchange">
+                                <path d="M29.46875,5.09375 L26.165125,5.09375 C25.1208645,5.09447935 24.2236835,5.83538872 24.0255222,6.86067536 C23.8273609,7.88596201 24.3838433,8.90782679 25.352625,9.297625 L28.706625,10.639875 C29.6754067,11.0296732 30.2318891,12.051538 30.0337278,13.0768246 C29.8355665,14.1021113 28.9383855,14.8430206 27.894125,14.84375 L24.59375,14.84375" id="Shape" stroke-width="1.5"></path>
+                                <path d="M27.03125,5.09375 L27.03125,3.875" id="Shape" stroke-width="1.5"></path>
+                                <path d="M27.03125,16.0625 L27.03125,14.84375" id="Shape" stroke-width="1.5"></path>
+                                <circle id="Oval" stroke-width="1.5" cx="27.03125" cy="9.96875" r="9.75"></circle>
+                                <circle id="Oval" stroke-width="1.5" cx="9.96875" cy="27.03125" r="9.75"></circle>
+                                <path d="M12.40625,31.90625 C9.71386184,31.90625 7.53125,29.7236382 7.53125,27.03125 C7.53125,24.3388618 9.71386184,22.15625 12.40625,22.15625" id="Shape" stroke-width="1.5"></path>
+                                <path d="M6.3125,27.03125 L12.40625,27.03125" id="Shape" stroke-width="1.5"></path>
+                                <polyline id="Shape" stroke-width="1.5" points="0.21875 6.3125 3.875 12.40625 9.96875 8.75"></polyline>
+                                <path d="M12.307125,0.4625 C7.67008442,2.15342649 4.73286169,6.73248824 5.1295,11.65225" id="Shape" stroke-width="1.5"></path>
+                                <polyline id="Shape" stroke-width="1.5" points="36.78125 30.6875 33.125 24.59375 27.03125 28.25"></polyline>
+                                <path d="M24.692875,36.5375 C29.3286747,34.8468965 32.2656158,30.2696037 31.8705,25.351" id="Shape" stroke-width="1.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
